@@ -1,0 +1,20 @@
+<sprite version="0.99">
+	<imagesheet id="main" src="zombie.png" />
+
+	<action name="Idle">
+		<frame sheetid="main" delay="0" x="0" y="0" width="32" height="32" anchorx="16" anchory="16" />
+	</action>
+
+	<action name="Walk">
+		<frame sheetid="main" delay="0" x="0" y="0" width="32" height="32" anchorx="16" anchory="16" />
+	</action>
+
+	<action name="Attack">
+		<frame sheetid="main" delay="0" x="0" y="0" width="32" height="32" anchorx="16" anchory="16" />
+	</action>
+
+	<action name="Dead">
+		<frame sheetid="main" delay="0" x="0" y="0" width="32" height="32" anchorx="16" anchory="16" />
+	</action>
+
+</sprite>
