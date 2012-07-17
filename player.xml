@@ -6,14 +6,14 @@
 	</action>
 
 	<action name="Walk">
-		<frame sheetid="main" delay="125" x="32" y="0" width="32" height="32" anchorx="16" anchory="16" />
-		<frame sheetid="main" delay="125" x="0" y="32" width="32" height="32" anchorx="16" anchory="16" />
-		<frame sheetid="main" delay="125" x="32" y="0" width="32" height="32" anchorx="16" anchory="16" />
-		<frame sheetid="main" delay="125" x="32" y="32" width="32" height="32" anchorx="16" anchory="16" />
-		<frame sheetid="main" delay="125" x="0" y="64" width="32" height="32" anchorx="16" anchory="16" />
-		<frame sheetid="main" delay="125" x="32" y="64" width="32" height="32" anchorx="16" anchory="16" />
-		<frame sheetid="main" delay="125" x="0" y="64" width="32" height="32" anchorx="16" anchory="16" />
-		<frame sheetid="main" delay="125" x="0" y="0" width="32" height="32" anchorx="16" anchory="16" />
+		<frame sheetid="main" delay="200" x="32" y="0" width="32" height="32" anchorx="16" anchory="16" />
+		<frame sheetid="main" delay="200" x="0" y="32" width="32" height="32" anchorx="16" anchory="16" />
+		<frame sheetid="main" delay="200" x="32" y="0" width="32" height="32" anchorx="16" anchory="16" />
+		<frame sheetid="main" delay="200" x="32" y="32" width="32" height="32" anchorx="16" anchory="16" />
+		<frame sheetid="main" delay="200" x="0" y="64" width="32" height="32" anchorx="16" anchory="16" />
+		<frame sheetid="main" delay="200" x="32" y="64" width="32" height="32" anchorx="16" anchory="16" />
+		<frame sheetid="main" delay="200" x="0" y="64" width="32" height="32" anchorx="16" anchory="16" />
+		<frame sheetid="main" delay="200" x="0" y="0" width="32" height="32" anchorx="16" anchory="16" />
 	</action>
 
 	<action name="Shoot">
