@@ -9,7 +9,8 @@ Files not listed here are CC-BY 3.0 and the property of New Age Software.
 
 - CONTENT FILES ---
 
-gypsy_camp_0.png		CC-BY-SA 3.0	Sergei Churbanov	http://masterserjio.wix.com/catblack
-mud.png					CC-BY 3.0		Iwan Gabovitch		http://opengameart.org/content/mud-dirt
-player.png				CC-BY 3.0		Thorsten R. Mayer	http://opengameart.org/content/top-down-runner
-zombie.png				CC-BY 3.0		Clint Bellanger		http://opengameart.org/content/zombie-sprites
+clearside-shapeshifter.ogg	CC-BY 3.0		Clearside			http://www.clearsidemusic.com
+gypsy_camp_0.png			CC-BY-SA 3.0	Sergei Churbanov	http://masterserjio.wix.com/catblack
+mud.png						CC-BY 3.0		Iwan Gabovitch		http://opengameart.org/content/mud-dirt
+player.png					CC-BY 3.0		Thorsten R. Mayer	http://opengameart.org/content/top-down-runner
+zombie.png					CC-BY 3.0		Clint Bellanger		http://opengameart.org/content/zombie-sprites
