@@ -5,12 +5,13 @@ Below is a list of content, the license under which they are used, the author of
 content and where the content was obtained (or, as per request of the author, their own
 personal web site).
 
-Files not listed here are CC-BY 3.0 and the property of New Age Software.
+Files not listed here are CC-BY 3.0 and the property of LairWorks Entertainment.
 
 - CONTENT FILES ---
 
-clearside-shapeshifter.ogg	CC-BY 3.0		Clearside			http://www.clearsidemusic.com
-gypsy_camp_0.png			CC-BY-SA 3.0	Sergei Churbanov	http://masterserjio.wix.com/catblack
-mud.png						CC-BY 3.0		Iwan Gabovitch		http://opengameart.org/content/mud-dirt
-player.png					CC-BY 3.0		Thorsten R. Mayer	http://opengameart.org/content/top-down-runner
-zombie.png					CC-BY 3.0		Clint Bellanger		http://opengameart.org/content/zombie-sprites
+clearside-shapeshifter.ogg	CC-BY 3.0	Clearside		http://www.clearsidemusic.com
+gypsy_camp_0.png		CC-BY-SA 3.0	Sergei Churbanov	http://masterserjio.wix.com/catblack
+mud.png				CC-BY 3.0	Iwan Gabovitch		http://opengameart.org/content/mud-dirt
+player.png			CC-BY 3.0	Thorsten R. Mayer	http://opengameart.org/content/top-down-runner
+zombie.png			CC-BY 3.0	Clint Bellanger		http://opengameart.org/content/zombie-sprites
+geebeeyay_8x16.png		CC-BY-3.0	Zingot Games		http://www.zingot.com
