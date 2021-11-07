@@ -28,7 +28,7 @@
 		<frame sheetid="main" delay="100" x="128" y="32" width="32" height="32" anchorx="16" anchory="16" />
 		<frame sheetid="main" delay="100" x="160" y="32" width="32" height="32" anchorx="16" anchory="16" />
 		<frame sheetid="main" delay="100" x="192" y="32" width="32" height="32" anchorx="16" anchory="16" />
-		<frame sheetid="main" delay="-1" x="224" y="32" width="32" height="32" anchorx="16" anchory="16" />
+		<frame sheetid="main" delay="0" x="224" y="32" width="32" height="32" anchorx="16" anchory="16" />
 	</action>
 
 </sprite>
